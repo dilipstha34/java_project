@@ -81,7 +81,7 @@ public class GymGUI implements ActionListener
     // Allow the user to specify the gender of the regular member
     private JRadioButton rMaleBtn, rFemaleBtn;
     // Combo boxes for selecting date of birth and membership start date
-    // Provide dropdown options for dates to ensure valid input
+    // Provide dropdown options for dates to ensure valid input is taken
     private JComboBox<String> rDobYear, rDobMonth, rDobDay, rMsYear, rMsMonth, rMsDay, rPlanBox;
     // Buttons for adding, displaying, and clearing regular member information
     // Facilitate the management of regular member data
